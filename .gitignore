@@ -1,1 +1,16 @@
 .ipynb_checkpoints/
+.vscode/
+
+MNIST/
+data/
+
+# Simpsons
+test/
+train/
+train_e/
+archive_extra2.zip
+journey-springfield.zip
+
+# Semantic
+PH2 Dataset images/
+PH2Dataset.rar
