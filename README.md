@@ -1,1 +1,1 @@
-# dl_school
+# Deep Learning School advanced course 1st part
