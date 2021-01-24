@@ -3,6 +3,7 @@
 
 MNIST/
 data/
+models/
 
 # Simpsons
 test/
